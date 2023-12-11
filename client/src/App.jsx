@@ -47,7 +47,7 @@ function App() {
           If all the checkboxes are checked, congratulations! 🎉 Your company is complying with the gist of the General Data Protection Regulation (GDPR).
         </Text>
         <Text color="white" fontSize="lg">
-          If not, then its time review your company's policies to comply with regulatory standards to keep your company and your data subjects safe.
+          If not, then its time to review your company's policies to comply with regulatory standards to keep your company and your data subjects safe.
         </Text>
       </VStack>
     </Box>
